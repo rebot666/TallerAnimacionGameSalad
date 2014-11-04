@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds />
+  <images>
+    <image name="brick-end">
+      <file name="brick-end.png" size="338" />
+    </image>
+    <image name="brick-floor">
+      <file name="brick-floor.png" size="339" />
+    </image>
+    <image name="brick-wall">
+      <file name="brick-wall.png" size="338" />
+    </image>
+    <image name="fan-blade">
+      <file name="fan-blade.png" size="15722" />
+    </image>
+    <image name="fan-cover">
+      <file name="fan-cover.png" size="16805" />
+    </image>
+    <image name="planks">
+      <file name="planks.png" size="11357" />
+    </image>
+    <image name="coin01">
+      <file name="coin01.png" size="15602" />
+    </image>
+    <image name="coin02">
+      <file name="coin02.png" size="13579" />
+    </image>
+    <image name="coin03">
+      <file name="coin03.png" size="14395" />
+    </image>
+    <image name="coin04">
+      <file name="coin04.png" size="10984" />
+    </image>
+    <image name="coin05">
+      <file name="coin05.png" size="9881" />
+    </image>
+    <image name="coin06">
+      <file name="coin06.png" size="3080" />
+    </image>
+    <image name="coin07">
+      <file name="coin07.png" size="9156" />
+    </image>
+    <image name="coin08">
+      <file name="coin08.png" size="10863" />
+    </image>
+    <image name="coin09">
+      <file name="coin09.png" size="13500" />
+    </image>
+    <image name="coin10">
+      <file name="coin10.png" size="13830" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
